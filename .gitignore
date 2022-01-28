@@ -1,0 +1,9 @@
+YJH_Serial_Test/Library/
+YJH_Serial_Test/obj/
+YJH_Serial_Test/Logs/
+YJH_Serial_Test/UserSettings/
+YJH_Serial_Test/Temp/
+YJH_Serial_Test/.vs/
+YJH_Serial_Test/.vsconfig
+YJH_Serial_Test/*.csproj
+YJH_Serial_Test/*.sln
